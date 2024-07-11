@@ -1,5 +1,4 @@
-Kenshing Movie-Recommender-System
-Overview
+
 The Kenshing Movie-Recommender-System is a project aimed at creating a personalized movie recommendation system using data from the Kaggle IMDB database and TMDB. The project leverages various Python libraries and tools to preprocess data, build recommendation models, and provide an interactive user interface.
 
 Project Components
